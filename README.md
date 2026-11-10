@@ -1,21 +1,67 @@
-# 💫 About Me:
-Hi, I am Suheb Khan. I'm a frontend developer with backend knowledge who integrates Firebase, builds custom web/android systems, and uses prompt engineering to make coding fast and seamless.
+# 👋 Hi, I'm Suheb Khan
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suheb.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhebkhan201) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@suhebkhan201) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Suhebdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhebdev201@gmail.com) 
+### Frontend Developer • Firebase Integrator • App & Web Builder
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suhebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suhebdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a frontend developer with backend knowledge. I build custom websites and apps to automate business work, integrate Firebase, and use prompt engineering to make coding fast and seamless.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-suheb.is--a.dev-1a5cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suheb.is-a.dev)
+[![Projects](https://img.shields.io/badge/My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://suheb.is-a.dev/Projects)
+[![Tools](https://img.shields.io/badge/Free%20Tools-009966?style=for-the-badge&logo=toolbox&logoColor=white)](https://suheb.is-a.dev/Tools)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suhebdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Domain: suheb.dev) 
+## 🛠️ What I Do
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌐 **Custom Websites & Web Apps**: fast, responsive, and built for real business use
+- 📱 **Android Apps**: React Native + Expo apps with Firebase backend
+- 🔥 **Firebase Integration**: Authentication (Phone OTP, Google Sign-In), Firestore, Push Notifications (FCM)
+- 🧩 **Chrome Extensions**: Manifest V3 extensions for productivity
+- ⚙️ **Business Automation**: attendance, salary, and management systems
+- 🤖 **Prompt Engineering**: using AI to build and ship faster
+
+---
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React%20JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore%20(Database)-FF9100?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 💬 **WhatsApp Chat Viewer & ZIP/TXT Reader** | Upload a WhatsApp export and read it like the real app. Zero-knowledge client parsing and Google Drive backup import. |
+| 🧑‍💼 **StaffBook** | Android app for staff attendance and automated salary management. |
+| 🛠️ **Dihadi-Roz** | Website + Android app for daily-wage worker attendance and wages. |
+| 🎮 **LostGames** | Android multiplayer gaming hub with real-time play and leaderboards. |
+| 🧩 **AI Chat Exporter** | Chrome extension to export ChatGPT, Claude & Gemini chats as TXT, Markdown, JSON or PDF. |
+| 🔐 **Firebase Auth Blueprints** | Ready-made Phone OTP, Google Sign-In and FCM push code. Free to download. |
+
+👉 See everything on my portfolio: **[suheb.is-a.dev/Projects](https://suheb.is-a.dev/Projects)**
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a5cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suheb.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhebkhan201)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suhebkhan201)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Suhebdev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/suheb.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhebdev201@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhebdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=suhebdev&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhebdev&theme=dark&hide_border=false&layout=compact)
