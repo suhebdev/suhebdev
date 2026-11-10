@@ -64,4 +64,4 @@ See everything on my portfolio: **[suheb.is-a.dev/Projects](https://suheb.is-a.d
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=suhebdev&theme=dark&hide_border=false)](https://github.com/suhebdev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suhebdev&card_width=900&card_height=150&background=FAFAFA&ring=1a5cff&fire=1a5cff&currStreakNum=111111&sideNums=111111&currStreakLabel=1a5cff&sideLabels=444444&dates=777777&stroke=E5E7EB&border=E5E7EB&border_radius=16)](https://github.com/suhebdev)
